@@ -1,0 +1,4 @@
+1) bisection
+2)Newton rapson
+3)fixed point
+4)Newton rapson to find multiple roots
