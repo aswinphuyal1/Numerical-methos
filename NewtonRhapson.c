@@ -20,7 +20,7 @@ int main(){
 	printf("Enter your initial guess and Error precision : \n");
 	scanf("%f%f",&x0,&E);
 	
-	while(true){
+	while(1){
 		x1=x0-(func(x0)/func_deri(x0));
 		Era=fabs(x1-x0)/x1;
 		if(Era<E){
