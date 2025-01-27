@@ -16,6 +16,7 @@ int main(){
 	scanf("%f%f",&x0,&x1);
 	printf("Enter the Error precision: ");
 	scanf("%f",&E);
+	
 	while(1){
 		x2=x1-(func(x1)*(x1-x0))/(func(x1)-func(x0));
 		Era=fabs((x2-x1)/x2); // Corrected error calculation
