@@ -7,7 +7,7 @@ double f(double x) {
 int main() {
     double a, b;
     int n,i;
-    printf("**\tCompiled By Sanjog Gautam\t**\n");
+    printf("**\tCompiled By Aswin phuyal\t**\n");
     // Input the integration limits and number of subintervals
     printf("Enter a, b, and n: ");
     scanf("%lf %lf %d", &a, &b, &n);
