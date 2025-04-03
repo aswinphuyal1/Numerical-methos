@@ -6,7 +6,7 @@ double f(double x) {
 
 int main() {
     double x, h;
-    printf("**\tCompiled By Sanjog Gautam\t**\n");
+    printf("**\tCompiled By Aswin phuyal\t**\n");
     printf("Enter x and h: ");
     scanf("%lf %lf", &x, &h);
     // Compute the derivative using the forward difference formula
