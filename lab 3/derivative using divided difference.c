@@ -2,7 +2,7 @@
 
 int main() {
     int n,i,j;
-    printf("**\tCompiled By Sanjog Gautam\t**\n");
+    printf("**\tCompiled By Aswin phuyal\t**\n");
     printf("Enter number of data points: ");
     scanf("%d", &n);
 
