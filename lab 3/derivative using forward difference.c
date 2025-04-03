@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main() {
     int n,i;
-    printf("**\tCompiled By Sanjog Gautam\t**\n");
+    printf("**\tCompiled By Aswin phuyal\t**\n");
     printf("Enter the number of data points: ");
     scanf("%d", &n);
     if (n < 2) {
