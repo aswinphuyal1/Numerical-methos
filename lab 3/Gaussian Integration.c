@@ -10,7 +10,7 @@ int main() {
     double a, b;
 	int i;
     // Input the integration limits
-    printf("**\tCompiled By Sanjog Gautam\t**\n");
+    printf("**\tCompiled By Aswin phuyal\t**\n");
     printf("Enter a and b: ");
     scanf("%lf %lf", &a, &b);
 
