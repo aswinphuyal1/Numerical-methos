@@ -3,6 +3,7 @@
 double f(double x) {
     return 1/(x+1); // Example: f(x) = 1/(x+4)
 }
+
 int main() {
     double a, b;
     int n,i;
