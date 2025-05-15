@@ -1,0 +1,19 @@
+29	Write a Program to implement Gauss Elimination Method
+
+31	Write a Program to implement Gauss Jordan Method.
+32	Write a Program to implement matrix inversion with Gauss-Jordan method.
+
+33	Write a Program to implement Do-Little LU Decomposition.
+35	Write a Program to implement Jacobi iteration method.
+
+
+
+37	Write a Program to solve ODE by Using Taylor's series method.
+	38	Write a Program to solve ODE by Using Picard’s method.
+	39	Write a Program to solve ODE by Using Eulers’s method.
+	40	Write a Program to solve ODE by Using Heun’s method.
+	41	Write a Program to solve ODE by Using Runge-Kutta method.
+
+
+45	Write a program to solve Elliptic PDE (Laplace Equation).
+46	Write a program to solve Poisson's equation.
